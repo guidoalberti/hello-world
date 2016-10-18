@@ -1,2 +1,3 @@
 # hello-world
-this first repostory
+tis first repostory
+do i do black shou
